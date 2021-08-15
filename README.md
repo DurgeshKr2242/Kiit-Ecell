@@ -3,6 +3,8 @@
 Points To be noted:
 1. The webpage is best suited for screen size of 1536 x 864. Could have made the page responsive if i had a little more time.
 2. Look out for beautiful hover effects in the page. 
+3. Look at the attached screen recording to see the full preview of the page.
+4. Did not use any framework like bootstrap because I belivev that it limits the possiblities.
 
 
 Screenshots:
